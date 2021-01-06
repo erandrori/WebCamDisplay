@@ -1,5 +1,5 @@
 # WebCamDisplay
-WebCamDisplay
+WebCamTexture Class
 
 2 Options:
 - Attach this script to any GameObject and create UI with RawImage (GameObject->UI->RawImage)
